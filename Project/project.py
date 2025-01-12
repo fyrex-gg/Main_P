@@ -5,8 +5,8 @@ import os
 import matplotlib.pyplot as plt
 
 # File paths
-JSON_FILE_PATH = "tasks.json"
-CSV_FILE_PATH = "tasks.csv"
+JSON_FILE_PATH = "C:/Users/fyrexGG/Documents/GitHub/191580642/project/tasks.json"
+CSV_FILE_PATH = "C:/Users/fyrexGG/Documents/GitHub/191580642/project/tasks.csv"
 
 # Constants
 MENU_OPTIONS = [
